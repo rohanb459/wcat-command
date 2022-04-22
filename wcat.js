@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 let fs = require("fs");
 let inputArr = process.argv.slice(2);
 console.log(inputArr);
